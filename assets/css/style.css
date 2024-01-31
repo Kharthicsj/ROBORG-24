@@ -1280,6 +1280,303 @@ nav.menu-wrap2 > ul {
   z-index: 1;
   overflow: hidden;
 }
+
+/* Mr.Bot */
+.thm-btn1-mr {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(229, 86, 86);
+  background-size: 20px;
+}
+
+.thm-btn1-mr.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-mr:hover, 
+.thm-btn1-mr:focus {color: #ffffff;}
+.thm-btn1-mr:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-mr:hover:before, 
+.thm-btn1-mr:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* End of Mr.Bot */
+
+/* Rob World */
+.thm-btn1-RobWorld {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(255, 107, 8);
+  background-size: 20px;
+}
+
+.thm-btn1-RobWorld.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-RobWorld:hover, 
+.thm-btn1-RobWorld:focus {color: #ffffff;}
+.thm-btn1-RobWorld:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-RobWorld:hover:before, 
+.thm-btn1-RobWorld:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* End of Mr.Bot */
+
+/* Dronz */
+.thm-btn1-dronz {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(229, 86, 86);
+  background-size: 20px;
+}
+
+.thm-btn1-dronz.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-dronz:hover, 
+.thm-btn1-dronz:focus {color: #ffffff;}
+.thm-btn1-dronz:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-dronz:hover:before, 
+.thm-btn1-dronz:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* End Of Dronz */
+
+/* stalk bot */
+.thm-btn1-stalkbot {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(255, 107, 8);
+  background-size: 20px;
+}
+
+.thm-btn1-stalkbot.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-stalkbot:hover, 
+.thm-btn1-stalkbot:focus {color: #ffffff;}
+.thm-btn1-stalkbot:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-stalkbot:hover:before, 
+.thm-btn1-stalkbot:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* end of stalkbot */
+
+/* Quiz */
+.thm-btn1-quiz {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(229, 86, 86);
+  background-size: 20px;
+}
+
+.thm-btn1-quiz.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-quiz:hover, 
+.thm-btn1-quiz:focus {color: #ffffff;}
+.thm-btn1-quiz:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-quiz:hover:before, 
+.thm-btn1-quiz:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* end of quiz */
+
+/* paper presentation */
+.thm-btn1-paper {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(255, 107, 8);
+  background-size: 20px;
+}
+
+.thm-btn1-paper.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-paper:hover, 
+.thm-btn1-paper:focus {color: #ffffff;}
+.thm-btn1-paper:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-paper:hover:before, 
+.thm-btn1-paper:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* end of paper presentation */
+
+/* jam */
+.thm-btn1-jam {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(229, 86, 86);
+  background-size: 20px;
+}
+
+.thm-btn1-jam.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-jam:hover, 
+.thm-btn1-jam:focus {color: #ffffff;}
+.thm-btn1-jam:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-jam:hover:before, 
+.thm-btn1-jam:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* end of jam */
+
+/* robart */
+.thm-btn1-robart {
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 8px;
+  font-weight: 400;
+  padding: 0.4125rem 2.8125rem;
+  z-index: 1;
+  overflow: hidden;
+  background-color: rgb(255, 107, 8);
+  background-size: 20px;
+}
+
+.thm-btn1-robart.mini-btn {padding: 1.1rem 2.8125rem;}
+.thm-btn1-robart:hover, 
+.thm-btn1-robart:focus {color: #ffffff;}
+.thm-btn1-robart:before {
+  content: "";
+  z-index: -1;
+  background-color: #155395;
+  opacity: 0;
+  left: 50%;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+.thm-btn1-robart:hover:before, 
+.thm-btn1-robart:focus:before {
+  opacity: .15;
+  right: 0;
+  left: 0;
+}
+/* end of robart */
+
 .thm-btn.mini-btn {padding: 1.1rem 2.8125rem;}
 .thm-btn:hover, 
 .thm-btn:focus {color: #fff;}
